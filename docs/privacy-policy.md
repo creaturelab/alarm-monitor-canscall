@@ -60,7 +60,7 @@ Having accurate information about you permits us to provide you with a smooth, e
 
 - Respond to product and customer service requests.
 
-- Solicit support for the Application.<br>
+- Solicit support for the Application.
 <br>
 
 ### DISCLOSURE OF YOUR INFORMATION
