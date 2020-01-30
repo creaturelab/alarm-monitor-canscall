@@ -63,7 +63,6 @@ Having accurate information about you permits us to provide you with a smooth, e
 - Solicit support for the Application.
 <br>
 <br>
-
 ### DISCLOSURE OF YOUR INFORMATION
 
 We may share information we have collected about you in certain situations. Your information may be disclosed as follows:
