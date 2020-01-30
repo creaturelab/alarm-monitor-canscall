@@ -33,7 +33,7 @@ We may request access or permission to certain features from your mobile device,
 
 NOTIFICATIONS
 
-Used for permissions that are associated with push notification.<br>
+Used for permissions that are associated with push notification.
 This permission allows this application to receive messages or alerts from our services.
 <br>
 <br>
