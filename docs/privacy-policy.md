@@ -60,9 +60,9 @@ Having accurate information about you permits us to provide you with a smooth, e
 
 - Respond to product and customer service requests.
 
-- Solicit support for the Application.
+- Solicit support for the Application.<br>
 <br>
-<br>
+
 ### DISCLOSURE OF YOUR INFORMATION
 
 We may share information we have collected about you in certain situations. Your information may be disclosed as follows:
