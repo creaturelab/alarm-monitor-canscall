@@ -36,6 +36,7 @@ NOTIFICATIONS
 Used for permissions that are associated with push notification.<br>
 This permission allows this application to receive messages or alerts from our services.
 <br>
+<br>
 
 ### USE OF YOUR INFORMATION
 
